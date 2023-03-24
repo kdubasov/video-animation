@@ -1,0 +1,9 @@
+.Cards{
+    margin: 1em 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Cards .card{
+    width: calc(25% - .5em);
+    margin: .25em;
+}

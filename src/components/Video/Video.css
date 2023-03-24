@@ -1,0 +1,13 @@
+.Video {
+    position: relative;
+    width: 100%;
+    min-height: 100%;
+}
+
+.video-data.alert{
+    position: fixed;
+    bottom: 5px;
+    left: 5px;
+    margin-bottom: 0;
+    z-index: 100;
+}
